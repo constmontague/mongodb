@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 	"github.com/segmentio/go-snakecase"
 	"github.com/segmentio/objects-go"
 	"gopkg.in/mgo.v2"
